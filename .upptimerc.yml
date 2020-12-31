@@ -4,12 +4,12 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Design Swan
+    url: https://www.designswan.com
+  - name: IMG vs IMG
+    url: https://www.imgvsimg.com
+  - name: 1 OR 9
+    url: https://www.1or9.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -23,8 +23,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 1OR9
+      href: https://www.1or9.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
