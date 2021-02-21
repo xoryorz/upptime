@@ -22,19 +22,19 @@
     "url": "https://www.imgvsimg.com",
     "icon": "https://favicons.githubusercontent.com/www.imgvsimg.com",
     "slug": "img-vs-img",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "90.94%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.83%",
-    "time": 318,
-    "timeDay": 249,
-    "timeWeek": 289,
-    "timeMonth": 330,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.81%",
+    "time": 316,
+    "timeDay": 247,
+    "timeWeek": 285,
+    "timeMonth": 327,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2021-02-21": 131
+      "2021-02-21": 140
     }
   },
   {
