@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 870,
-    "timeDay": 467,
-    "timeWeek": 511,
-    "timeMonth": 950,
-    "timeYear": 870,
+    "time": 865,
+    "timeDay": 439,
+    "timeWeek": 490,
+    "timeMonth": 935,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2021-03-03": 7
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.imgvsimg.com",
     "slug": "img-vs-img",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.87%",
-    "time": 299,
-    "timeDay": 286,
-    "timeWeek": 320,
-    "timeMonth": 256,
-    "timeYear": 299,
+    "uptimeYear": "99.88%",
+    "time": 300,
+    "timeDay": 367,
+    "timeWeek": 337,
+    "timeMonth": 259,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2021-02-21": 140
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 307,
-    "timeWeek": 379,
-    "timeMonth": 316,
-    "timeYear": 295,
+    "time": 296,
+    "timeDay": 384,
+    "timeWeek": 375,
+    "timeMonth": 314,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   }
 ]
