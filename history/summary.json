@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.designswan.com",
     "slug": "design-swan",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 812,
-    "timeDay": 644,
-    "timeWeek": 615,
-    "timeMonth": 568,
-    "timeYear": 812,
+    "uptimeYear": "100.00%",
+    "time": 809,
+    "timeDay": 485,
+    "timeWeek": 606,
+    "timeMonth": 563,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2021-03-03": 7
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 291,
-    "timeDay": 284,
-    "timeWeek": 251,
-    "timeMonth": 274,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 242,
+    "timeWeek": 255,
+    "timeMonth": 273,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2021-02-21": 140
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 158,
-    "timeWeek": 202,
-    "timeMonth": 288,
-    "timeYear": 286,
+    "time": 288,
+    "timeDay": 424,
+    "timeWeek": 231,
+    "timeMonth": 294,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   }
 ]
