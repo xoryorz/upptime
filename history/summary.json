@@ -4,15 +4,15 @@
     "url": "https://www.designswan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.designswan.com.ico",
     "slug": "design-swan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "86.10%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 482,
-    "timeDay": 436,
-    "timeWeek": 437,
+    "timeDay": 421,
+    "timeWeek": 435,
     "timeMonth": 449,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
       "2023-03-09": 166,
       "2023-03-08": 205,
       "2023-03-07": 187,
-      "2023-03-06": 49
+      "2023-03-06": 21
     }
   },
   {
