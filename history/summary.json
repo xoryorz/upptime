@@ -11,7 +11,7 @@
     "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 463,
-    "timeDay": 589,
+    "timeDay": 604,
     "timeWeek": 508,
     "timeMonth": 505,
     "timeYear": 464,
@@ -38,19 +38,19 @@
     "url": "https://www.imgvsimg.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.imgvsimg.com.ico",
     "slug": "img-vs-img",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 203,
-    "timeWeek": 182,
-    "timeMonth": 190,
+    "timeDay": 236,
+    "timeWeek": 195,
+    "timeMonth": 194,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 13
     }
   },
   {
