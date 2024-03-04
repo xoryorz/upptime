@@ -1,7 +1,7 @@
 url: https://www.designswan.com
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2024-03-04T15:25:36.297Z
+status: down
+code: 500
+responseTime: 86
+lastUpdated: 2024-03-04T16:57:46.106Z
 startTime: 2020-12-31T18:44:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
