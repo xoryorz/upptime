@@ -6,17 +6,17 @@
     "slug": "design-swan",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "74.93%",
-    "uptimeWeek": "77.88%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "86.94%",
+    "uptimeWeek": "78.00%",
+    "uptimeMonth": "91.79%",
     "uptimeYear": "99.32%",
     "time": 497,
-    "timeDay": 504,
+    "timeDay": 521,
     "timeWeek": 484,
-    "timeMonth": 482,
+    "timeMonth": 483,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-12-03": 308,
+      "2024-12-03": 296,
       "2024-12-02": 271,
       "2024-12-01": 403,
       "2024-11-30": 376,
@@ -28,7 +28,7 @@
       "2024-11-24": 194,
       "2024-11-23": 114,
       "2024-11-22": 266,
-      "2024-11-21": 62
+      "2024-11-21": 85
     }
   },
   {
@@ -43,9 +43,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 181,
-    "timeDay": 115,
-    "timeWeek": 207,
-    "timeMonth": 200,
+    "timeDay": 293,
+    "timeWeek": 227,
+    "timeMonth": 204,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2024-10-15": 111,
@@ -63,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 111,
-    "timeWeek": 225,
-    "timeMonth": 206,
+    "time": 195,
+    "timeDay": 338,
+    "timeWeek": 254,
+    "timeMonth": 213,
     "timeYear": 191,
     "dailyMinutesDown": {}
   }
