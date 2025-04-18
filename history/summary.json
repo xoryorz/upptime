@@ -6,14 +6,14 @@
     "slug": "design-swan",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "84.77%",
+    "uptimeDay": "84.76%",
     "uptimeWeek": "90.30%",
-    "uptimeMonth": "92.08%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 467,
-    "timeDay": 318,
-    "timeWeek": 349,
-    "timeMonth": 349,
+    "timeDay": 314,
+    "timeWeek": 348,
+    "timeMonth": 351,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2025-04-18": 147,
@@ -42,7 +42,7 @@
       "2025-03-26": 162,
       "2025-03-24": 32,
       "2025-03-23": 92,
-      "2025-03-22": 36
+      "2025-03-22": 21
     }
   },
   {
