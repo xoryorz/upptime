@@ -4,18 +4,19 @@
     "url": "https://www.designswan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.designswan.com.ico",
     "slug": "design-swan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "79.58%",
-    "uptimeWeek": "86.61%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "87.18%",
+    "uptimeMonth": "92.25%",
     "uptimeYear": "99.35%",
     "time": 444,
-    "timeDay": 394,
-    "timeWeek": 394,
-    "timeMonth": 390,
+    "timeDay": 391,
+    "timeWeek": 395,
+    "timeMonth": 391,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-07-23": 240,
       "2025-07-22": 81,
       "2025-07-21": 205,
@@ -45,7 +46,7 @@
       "2025-06-27": 103,
       "2025-06-26": 135,
       "2025-06-25": 72,
-      "2025-06-24": 71
+      "2025-06-24": 50
     }
   },
   {
@@ -60,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 187,
-    "timeDay": 124,
-    "timeWeek": 158,
+    "timeDay": 134,
+    "timeWeek": 160,
     "timeMonth": 194,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -84,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 114,
-    "timeWeek": 183,
+    "timeDay": 138,
+    "timeWeek": 181,
     "timeMonth": 204,
     "timeYear": 199,
     "dailyMinutesDown": {
