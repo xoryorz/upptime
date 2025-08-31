@@ -6,17 +6,17 @@
     "slug": "design-swan",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.91%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "92.54%",
     "uptimeYear": "99.38%",
     "time": 451,
-    "timeDay": 614,
-    "timeWeek": 1146,
-    "timeMonth": 605,
+    "timeDay": 408,
+    "timeWeek": 1152,
+    "timeMonth": 606,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-08-30": 139,
+      "2025-08-30": 127,
       "2025-08-29": 200,
       "2025-08-28": 250,
       "2025-08-27": 202,
@@ -38,7 +38,7 @@
       "2025-08-11": 171,
       "2025-08-10": 112,
       "2025-08-09": 89,
-      "2025-08-08": 20
+      "2025-08-08": 51
     }
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 187,
-    "timeDay": 174,
-    "timeWeek": 180,
-    "timeMonth": 192,
+    "timeDay": 169,
+    "timeWeek": 175,
+    "timeMonth": 189,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-03-03": 97,
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 207,
-    "timeDay": 184,
-    "timeWeek": 781,
-    "timeMonth": 345,
-    "timeYear": 213,
+    "timeDay": 179,
+    "timeWeek": 780,
+    "timeMonth": 342,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2025-03-03": 97
     }
