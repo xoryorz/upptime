@@ -114,16 +114,16 @@
     "url": "https://www.1or9.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.1or9.com.ico",
     "slug": "1-or-9",
-    "status": "down",
-    "uptime": "88.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "33.84%",
+    "status": "up",
+    "uptime": "88.23%",
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "33.81%",
     "time": 183,
-    "timeDay": 147,
-    "timeWeek": 197,
-    "timeMonth": 233,
+    "timeDay": 165,
+    "timeWeek": 198,
+    "timeMonth": 232,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2026-05-06": 245,
@@ -369,7 +369,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 448,
-      "2026-08-16": 0
+      "2026-08-16": 158
     }
   }
 ]
