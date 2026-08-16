@@ -96,19 +96,19 @@
     "url": "https://www.imgvsimg.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.imgvsimg.com.ico",
     "slug": "img-vs-img",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 8673,
-    "timeWeek": 2328,
-    "timeMonth": 755,
-    "timeYear": 250,
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 234,
+    "timeDay": 5904,
+    "timeWeek": 2110,
+    "timeMonth": 743,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 32
     }
   },
   {
