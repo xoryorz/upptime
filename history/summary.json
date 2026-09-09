@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.57%",
-    "uptimeMonth": "92.98%",
+    "uptimeWeek": "90.18%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "98.15%",
     "time": 472,
-    "timeDay": 870,
-    "timeWeek": 521,
-    "timeMonth": 485,
+    "timeDay": 614,
+    "timeWeek": 538,
+    "timeMonth": 489,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2026-05-29": 231,
@@ -93,10 +93,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 246,
-    "timeWeek": 209,
-    "timeMonth": 732,
-    "timeYear": 252,
+    "timeDay": 161,
+    "timeWeek": 218,
+    "timeMonth": 728,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2026-08-16": 32
     }
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.1or9.com.ico",
     "slug": "1-or-9",
     "status": "up",
-    "uptime": "88.36%",
+    "uptime": "88.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "34.21%",
+    "uptimeYear": "34.49%",
     "time": 184,
-    "timeDay": 313,
-    "timeWeek": 254,
-    "timeMonth": 226,
+    "timeDay": 180,
+    "timeWeek": 261,
+    "timeMonth": 225,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-05-06": 245,
@@ -357,7 +357,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-08-16": 158
     }
   }
