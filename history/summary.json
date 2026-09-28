@@ -6,15 +6,15 @@
     "slug": "design-swan",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "97.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.26%",
     "uptimeMonth": "94.73%",
     "uptimeYear": "98.14%",
     "time": 450,
-    "timeDay": 311,
-    "timeWeek": 455,
-    "timeMonth": 540,
-    "timeYear": 451,
+    "timeDay": 516,
+    "timeWeek": 456,
+    "timeMonth": 539,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2026-06-09": 234,
       "2026-06-11": 239,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 95,
-    "timeWeek": 136,
-    "timeMonth": 186,
+    "timeDay": 238,
+    "timeWeek": 157,
+    "timeMonth": 187,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-08-16": 32
@@ -110,11 +110,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.43%",
+    "uptimeYear": "39.70%",
     "time": 185,
-    "timeDay": 90,
-    "timeWeek": 174,
-    "timeMonth": 233,
+    "timeDay": 151,
+    "timeWeek": 172,
+    "timeMonth": 231,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-05-06": 245,
@@ -337,7 +337,6 @@
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
-      "2025-09-28": 1440,
       "2026-08-16": 158
     }
   }
