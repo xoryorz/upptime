@@ -11,9 +11,9 @@
     "uptimeMonth": "95.80%",
     "uptimeYear": "98.11%",
     "time": 452,
-    "timeDay": 620,
-    "timeWeek": 579,
-    "timeMonth": 541,
+    "timeDay": 566,
+    "timeWeek": 567,
+    "timeMonth": 534,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2026-06-14": 224,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 224,
-    "timeWeek": 189,
-    "timeMonth": 181,
-    "timeYear": 250,
+    "timeDay": 185,
+    "timeWeek": 194,
+    "timeMonth": 179,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2026-08-16": 32
     }
@@ -106,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.1or9.com.ico",
     "slug": "1-or-9",
     "status": "up",
-    "uptime": "88.52%",
+    "uptime": "88.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.17%",
+    "uptimeYear": "42.45%",
     "time": 186,
-    "timeDay": 219,
-    "timeWeek": 238,
-    "timeMonth": 222,
+    "timeDay": 142,
+    "timeWeek": 216,
+    "timeMonth": 216,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-05-06": 245,
@@ -327,7 +327,6 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
       "2026-08-16": 158
     }
   }
